@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="cor" value="const $module$ = require('$module$');&#10;$END$" description="Require a node.js module" toReformat="true" toShortenFQNames="true">
+    <variable name="module" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
