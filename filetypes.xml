@@ -8,6 +8,7 @@
       <mapping pattern="V_Pxcyd2prNYaxBUT4ZmQwwg7VGzan4OVj1kJEzy72s" type="PLAIN_TEXT" />
       <mapping pattern="bKb_091aGvhFDWe8ccq6eojzzEfhZYOrIVMpdc_saGo" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="LICENCE" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="tbz" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
